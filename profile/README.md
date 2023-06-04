@@ -12,13 +12,6 @@
 |     Muhammad Fikri Al-Barik     | C169DSX0957 |   Cloud Computing  |               DevOps Engineer              |            [LinkedIn](https://www.linkedin.com/in/muhammad-fikri-al-barik-09077716b/) or [Github](https://github.com/FikriBarikStudent)            |
 | Muhammad Handi Rachmawan | C306DSX0825 |   Cloud Computing  |          DevOps Engineer         | [LinkedIn](https://www.linkedin.com/in/handiism) or [Github](https://github.com/handiism) |
 
-# Project Schedule
-
-|            Path           | Week 1 |        Week 2        |                    Week 3                   |                                                       Week 4                                                     |   Week 5           |
-| :-------------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: | :---------------------: |
-|            Machine Learning           | Data Collecting |        Data Preprocessing and Designing Model Architecture        |                    Start Training the Data and Improvement                   |                                                       Model Deployment and Building Flask App                                                    | Finishing and Evaluation  |
-|            Mobile Development           | Designing UI/UX |        Slicing UI        |                    Setup the Activity                   |                                                       Consume API from Flask App                                                    | Finishing and Evaluation  |
-|            Cloud Computing           | Designing API Requirement |        Buiding the API        |                    Setup Virtual Machine                   |                                                       Deploying Flask App                                                     | Finishing and Evaluation  |
 
 # Repositories
 
